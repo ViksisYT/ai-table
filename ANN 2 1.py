@@ -11,4 +11,4 @@ w = np.array([[1],
 s = np.dot(x,w)
 
 print(s)
-print("bye! the script ends.")
+print("bye! the table builded succesfully.")
